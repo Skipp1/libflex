@@ -1,0 +1,6 @@
+numpy
+matplotlib
+cobaya
+mpi4py
+fgivenx
+anesthetic
